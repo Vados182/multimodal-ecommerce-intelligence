@@ -1,5 +1,12 @@
 import os
+
+# Ograniczenie narzutu pamięciowego PyTorcha na CPU
+os.environ["OMP_NUM_THREADS"] = "1"
+os.environ["MKL_NUM_THREADS"] = "1"
+
 import torch
+torch.set_num_threads(1)
+
 import torchvision.transforms as transforms
 from torchvision.models import resnet18, ResNet18_Weights
 from PIL import Image
@@ -8,30 +15,34 @@ class ProductVisionDetector:
     """
     Klasa odpowiedzialna za analizę obrazów produktów przy użyciu 
     splotowej sieci neuronowej (CNN) w oparciu o architekturę ResNet-18.
+    Zoptymalizowana pod kątem niskiego zużycia pamięci RAM (np. 512MB limit na Renderze).
     """
     def __init__(self):
-        # 1. Wybór urządzenia obliczeniowego (GPU CUDA jeśli dostępne, w przeciwnym razie CPU)
         self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-        print(f"[VisionDetector] Inicjalizacja modelu na urządzeniu: {self.device}")
+        self.model = None
+        self.weights = None
+        self.categories = None
 
-        # 2. Załadowanie gotowych, wytrenowanych wag (Transfer Learning na zbiorze ImageNet)
-        self.weights = ResNet18_Weights.DEFAULT
-        self.model = resnet18(weights=self.weights)
-        self.model.to(self.device)
-        self.model.eval()  # Przełączenie sieci w tryb predykcji/ewaluacji (wyłączenie Dropout / BatchNorm)
-
-        # 3. Przygotowanie pipeline'u transformacji obrazu (zgodnie z wymaganiami sieci ResNet)
+        # Przygotowanie pipeline'u transformacji obrazu
         self.transform = transforms.Compose([
-            transforms.Resize((224, 224)),  # Skalowanie obrazu do wymiarów 224x224 px
-            transforms.ToTensor(),          # Konwersja z obrazu PIL/numpy do Tenzora PyTorch
-            transforms.Normalize(           # Normalizacja wartości pikseli (standaryzacja ImageNet)
+            transforms.Resize((224, 224)),
+            transforms.ToTensor(),
+            transforms.Normalize(
                 mean=[0.485, 0.456, 0.406], 
                 std=[0.229, 0.224, 0.225]
             )
         ])
 
-        # Meta-etykiety klas zbioru ImageNet
-        self.categories = self.weights.meta["categories"]
+    def _load_model(self):
+        """Leniwe ładowanie modelu ResNet-18 do pamięci RAM przy pierwszym użyciu."""
+        if self.model is None:
+            print(f"[VisionDetector] Inicjalizacja modelu na urządzeniu: {self.device}")
+            with torch.no_grad():
+                self.weights = ResNet18_Weights.DEFAULT
+                self.model = resnet18(weights=self.weights)
+                self.model.to(self.device)
+                self.model.eval()
+                self.categories = self.weights.meta["categories"]
 
     def classify_image(self, image_path: str) -> dict:
         """
@@ -39,7 +50,6 @@ class ProductVisionDetector:
         i zwraca najbardziej prawdopodobne kategorie wraz z poziomem pewności.
         """
         if not os.path.exists(image_path):
-            # Tryb zastępczy gdy plik fizycznie nie istnieje w katalogu raw
             return {
                 "status": "mock_result",
                 "message": f"Plik {image_path} nie istnieje. Zwrócono wynik symulowany.",
@@ -48,13 +58,16 @@ class ProductVisionDetector:
             }
 
         try:
+            # Ładowanie modelu do pamięci dopiero przy pierwszym zapytaniu
+            self._load_model()
+
             # 1. Wczytanie obrazu i konwersja do przestrzeni RGB
             image = Image.open(image_path).convert('RGB')
             
-            # 2. Zastosowanie transformacji i dodanie wymiaru batcha (shape: [1, 3, 224, 224])
+            # 2. Zastosowanie transformacji i dodanie wymiaru batcha
             tensor_image = self.transform(image).unsqueeze(0).to(self.device)
 
-            # 3. Przeprowadzenie predykcji bez obliczania gradientów (oszczędność pamięci RAM/VRAM)
+            # 3. Przeprowadzenie predykcji bez obliczania gradientów
             with torch.no_grad():
                 outputs = self.model(tensor_image)
                 probabilities = torch.nn.functional.softmax(outputs[0], dim=0)
@@ -75,7 +88,6 @@ class ProductVisionDetector:
 
 if __name__ == "__main__":
     detector = ProductVisionDetector()
-    # Test działania na przykładowym pliku
     sample_img_path = "data/raw/images/img_0001.jpg"
     result = detector.classify_image(sample_img_path)
     print("\n--- Wynik Analizy Obrazu (PyTorch Computer Vision) ---")

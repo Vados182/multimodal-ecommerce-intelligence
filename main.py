@@ -1,7 +1,9 @@
+import os
+os.environ["OMP_NUM_THREADS"] = "1"
+os.environ["MKL_NUM_THREADS"] = "1"
 from fastapi import FastAPI, File, UploadFile
 from pydantic import BaseModel
 from typing import Optional, List
-import os
 import shutil
 
 # Importy z naszych modułów
