@@ -6,17 +6,17 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.25+-FF4B4B.svg)](https://streamlit.io/)
 [![Docker](https://img.shields.io/badge/Docker-Enabled-2496ED.svg)](https://www.docker.com/)
 
-Produkcyjny, produkcyjnie zoptymalizowany system analityczny dla e-commerce łączący **Generatywną AI (LLM Agents)**, **Computer Vision (PyTorch)**, **Inżynierię Danych (PySpark ETL)** oraz **Wnioskowanie Przyczynowe (Causal Inference)**. 
+A production-ready, resource-optimized analytical platform for e-commerce combining **Generative AI (LLM Agents)**, **Computer Vision (PyTorch)**, **Data Engineering (PySpark ETL)**, and **Causal Inference**.
 
-Aplikacja została zaprojektowana z myślą o architekturze mikroserwisowej i zoptymalizowana pod kątem ścisłych ograniczeń pamięciowych środowisk chmurowych (np. Render 512MB RAM).
+The application is engineered around a microservice architecture and optimized for strict memory constraints in cloud deployment environments (e.g., Render 512MB RAM).
 
 ---
 
-## 🏗️ Architektura Systemu
+## 🏗️ System Architecture
 
-System działa w modelu dwuwarstwowym:
-1. **Backend (FastAPI)** – Serwuje punkty końcowe REST API dla modeli ML/DL oraz Agenta LLM.
-2. **Frontend (Streamlit)** – Interaktywny pulpit nawigacyjny dla kadr zarządczych i analityków e-commerce.
+The system operates on a two-tier architecture:
+1. **Backend (FastAPI)** – Serves REST API endpoints for ML/DL models and the LLM Agent.
+2. **Frontend (Streamlit)** – Provides an interactive dashboard for executives and e-commerce analysts.
 
 ```mermaid
 flowchart TD
