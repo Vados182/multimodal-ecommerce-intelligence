@@ -24,8 +24,11 @@ RUN pip install --no-cache-dir --upgrade pip && \
 # 6. Kopiowanie reszty kodu aplikacji
 COPY . .
 
-# 7. Port informacyjny dla Dockera
+# 7. Pre-download wag PyTorch na etapie budowania kontenera
+RUN python -c "import torchvision.models as models; models.resnet18(weights=models.ResNet18_Weights.DEFAULT)"
+
+# 8. Port informacyjny dla Dockera
 EXPOSE $PORT
 
-# 8. Uruchomienie serwera Uvicorn z dynamicznym portem z usługi Render
+# 9. Uruchomienie serwera Uvicorn z dynamicznym portem z usługi Render
 CMD ["sh", "-c", "uvicorn main:app --host 0.0.0.0 --port ${PORT:-10000}"]
