@@ -1,0 +1,501 @@
+product_id,category,base_price,raw_description,image_path
+PRD-0001,Fashion,257.57,"Super okazja! Produkt PRD-0001. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0001.jpg
+PRD-0002,Industrial,414.96,"Super okazja! Produkt PRD-0002. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0002.jpg
+PRD-0003,Automotive,166.82,"Super okazja! Produkt PRD-0003. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0003.jpg
+PRD-0004,Industrial,448.81,"Super okazja! Produkt PRD-0004. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0004.jpg
+PRD-0005,Industrial,200.71,"Super okazja! Produkt PRD-0005. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0005.jpg
+PRD-0006,Home & Kitchen,15.31,"Super okazja! Produkt PRD-0006. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0006.jpg
+PRD-0007,Automotive,453.64,"Super okazja! Produkt PRD-0007. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0007.jpg
+PRD-0008,Automotive,54.73,"Super okazja! Produkt PRD-0008. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0008.jpg
+PRD-0009,Automotive,166.46,"Super okazja! Produkt PRD-0009. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0009.jpg
+PRD-0010,Industrial,475.53,"Super okazja! Produkt PRD-0010. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0010.jpg
+PRD-0011,Fashion,475.8,"Super okazja! Produkt PRD-0011. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0011.jpg
+PRD-0012,Automotive,290.98,"Super okazja! Produkt PRD-0012. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0012.jpg
+PRD-0013,Industrial,319.6,"Super okazja! Produkt PRD-0013. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0013.jpg
+PRD-0014,Home & Kitchen,229.74,"Super okazja! Produkt PRD-0014. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0014.jpg
+PRD-0015,Fashion,153.67,"Super okazja! Produkt PRD-0015. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0015.jpg
+PRD-0016,Home & Kitchen,171.05,"Super okazja! Produkt PRD-0016. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0016.jpg
+PRD-0017,Fashion,339.53,"Super okazja! Produkt PRD-0017. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0017.jpg
+PRD-0018,Industrial,378.66,"Super okazja! Produkt PRD-0018. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0018.jpg
+PRD-0019,Electronics,397.87,"Super okazja! Produkt PRD-0019. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0019.jpg
+PRD-0020,Fashion,396.91,"Super okazja! Produkt PRD-0020. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0020.jpg
+PRD-0021,Home & Kitchen,54.69,"Super okazja! Produkt PRD-0021. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0021.jpg
+PRD-0022,Industrial,252.27,"Super okazja! Produkt PRD-0022. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0022.jpg
+PRD-0023,Fashion,38.2,"Super okazja! Produkt PRD-0023. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0023.jpg
+PRD-0024,Electronics,279.27,"Super okazja! Produkt PRD-0024. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0024.jpg
+PRD-0025,Electronics,226.35,"Super okazja! Produkt PRD-0025. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0025.jpg
+PRD-0026,Automotive,444.98,"Super okazja! Produkt PRD-0026. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0026.jpg
+PRD-0027,Automotive,181.95,"Super okazja! Produkt PRD-0027. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0027.jpg
+PRD-0028,Home & Kitchen,67.36,"Super okazja! Produkt PRD-0028. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0028.jpg
+PRD-0029,Fashion,80.07,"Super okazja! Produkt PRD-0029. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0029.jpg
+PRD-0030,Fashion,383.14,"Super okazja! Produkt PRD-0030. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0030.jpg
+PRD-0031,Automotive,312.93,"Super okazja! Produkt PRD-0031. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0031.jpg
+PRD-0032,Fashion,59.55,"Super okazja! Produkt PRD-0032. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0032.jpg
+PRD-0033,Fashion,51.21,"Super okazja! Produkt PRD-0033. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0033.jpg
+PRD-0034,Electronics,353.47,"Super okazja! Produkt PRD-0034. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0034.jpg
+PRD-0035,Automotive,45.65,"Super okazja! Produkt PRD-0035. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0035.jpg
+PRD-0036,Industrial,412.71,"Super okazja! Produkt PRD-0036. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0036.jpg
+PRD-0037,Automotive,356.06,"Super okazja! Produkt PRD-0037. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0037.jpg
+PRD-0038,Industrial,49.86,"Super okazja! Produkt PRD-0038. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0038.jpg
+PRD-0039,Electronics,51.57,"Super okazja! Produkt PRD-0039. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0039.jpg
+PRD-0040,Home & Kitchen,493.45,"Super okazja! Produkt PRD-0040. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0040.jpg
+PRD-0041,Fashion,193.39,"Super okazja! Produkt PRD-0041. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0041.jpg
+PRD-0042,Electronics,191.61,"Super okazja! Produkt PRD-0042. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0042.jpg
+PRD-0043,Fashion,408.27,"Super okazja! Produkt PRD-0043. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0043.jpg
+PRD-0044,Home & Kitchen,474.15,"Super okazja! Produkt PRD-0044. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0044.jpg
+PRD-0045,Home & Kitchen,493.14,"Super okazja! Produkt PRD-0045. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0045.jpg
+PRD-0046,Electronics,379.16,"Super okazja! Produkt PRD-0046. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0046.jpg
+PRD-0047,Home & Kitchen,194.37,"Super okazja! Produkt PRD-0047. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0047.jpg
+PRD-0048,Industrial,50.92,"Super okazja! Produkt PRD-0048. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0048.jpg
+PRD-0049,Home & Kitchen,390.8,"Super okazja! Produkt PRD-0049. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0049.jpg
+PRD-0050,Fashion,283.62,"Super okazja! Produkt PRD-0050. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0050.jpg
+PRD-0051,Fashion,217.87,"Super okazja! Produkt PRD-0051. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0051.jpg
+PRD-0052,Fashion,454.11,"Super okazja! Produkt PRD-0052. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0052.jpg
+PRD-0053,Fashion,64.49,"Super okazja! Produkt PRD-0053. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0053.jpg
+PRD-0054,Industrial,251.39,"Super okazja! Produkt PRD-0054. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0054.jpg
+PRD-0055,Automotive,15.56,"Super okazja! Produkt PRD-0055. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0055.jpg
+PRD-0056,Electronics,239.64,"Super okazja! Produkt PRD-0056. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0056.jpg
+PRD-0057,Fashion,37.59,"Super okazja! Produkt PRD-0057. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0057.jpg
+PRD-0058,Home & Kitchen,68.22,"Super okazja! Produkt PRD-0058. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0058.jpg
+PRD-0059,Fashion,67.59,"Super okazja! Produkt PRD-0059. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0059.jpg
+PRD-0060,Home & Kitchen,328.11,"Super okazja! Produkt PRD-0060. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0060.jpg
+PRD-0061,Home & Kitchen,375.56,"Super okazja! Produkt PRD-0061. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0061.jpg
+PRD-0062,Fashion,295.85,"Super okazja! Produkt PRD-0062. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0062.jpg
+PRD-0063,Industrial,481.46,"Super okazja! Produkt PRD-0063. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0063.jpg
+PRD-0064,Home & Kitchen,193.69,"Super okazja! Produkt PRD-0064. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0064.jpg
+PRD-0065,Home & Kitchen,150.0,"Super okazja! Produkt PRD-0065. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0065.jpg
+PRD-0066,Fashion,435.61,"Super okazja! Produkt PRD-0066. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0066.jpg
+PRD-0067,Home & Kitchen,119.56,"Super okazja! Produkt PRD-0067. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0067.jpg
+PRD-0068,Home & Kitchen,481.98,"Super okazja! Produkt PRD-0068. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0068.jpg
+PRD-0069,Fashion,15.96,"Super okazja! Produkt PRD-0069. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0069.jpg
+PRD-0070,Fashion,485.24,"Super okazja! Produkt PRD-0070. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0070.jpg
+PRD-0071,Electronics,31.15,"Super okazja! Produkt PRD-0071. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0071.jpg
+PRD-0072,Industrial,446.66,"Super okazja! Produkt PRD-0072. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0072.jpg
+PRD-0073,Industrial,268.57,"Super okazja! Produkt PRD-0073. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0073.jpg
+PRD-0074,Home & Kitchen,496.55,"Super okazja! Produkt PRD-0074. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0074.jpg
+PRD-0075,Industrial,46.16,"Super okazja! Produkt PRD-0075. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0075.jpg
+PRD-0076,Home & Kitchen,281.39,"Super okazja! Produkt PRD-0076. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0076.jpg
+PRD-0077,Electronics,484.96,"Super okazja! Produkt PRD-0077. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0077.jpg
+PRD-0078,Fashion,266.32,"Super okazja! Produkt PRD-0078. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0078.jpg
+PRD-0079,Fashion,318.41,"Super okazja! Produkt PRD-0079. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0079.jpg
+PRD-0080,Fashion,350.92,"Super okazja! Produkt PRD-0080. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0080.jpg
+PRD-0081,Industrial,232.73,"Super okazja! Produkt PRD-0081. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0081.jpg
+PRD-0082,Electronics,317.5,"Super okazja! Produkt PRD-0082. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0082.jpg
+PRD-0083,Industrial,296.31,"Super okazja! Produkt PRD-0083. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0083.jpg
+PRD-0084,Industrial,451.57,"Super okazja! Produkt PRD-0084. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0084.jpg
+PRD-0085,Electronics,32.27,"Super okazja! Produkt PRD-0085. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0085.jpg
+PRD-0086,Electronics,147.67,"Super okazja! Produkt PRD-0086. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0086.jpg
+PRD-0087,Electronics,475.7,"Super okazja! Produkt PRD-0087. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0087.jpg
+PRD-0088,Electronics,446.23,"Super okazja! Produkt PRD-0088. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0088.jpg
+PRD-0089,Fashion,233.27,"Super okazja! Produkt PRD-0089. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0089.jpg
+PRD-0090,Automotive,313.86,"Super okazja! Produkt PRD-0090. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0090.jpg
+PRD-0091,Automotive,145.92,"Super okazja! Produkt PRD-0091. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0091.jpg
+PRD-0092,Electronics,102.18,"Super okazja! Produkt PRD-0092. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0092.jpg
+PRD-0093,Automotive,237.21,"Super okazja! Produkt PRD-0093. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0093.jpg
+PRD-0094,Automotive,183.14,"Super okazja! Produkt PRD-0094. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0094.jpg
+PRD-0095,Electronics,295.99,"Super okazja! Produkt PRD-0095. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0095.jpg
+PRD-0096,Automotive,48.09,"Super okazja! Produkt PRD-0096. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0096.jpg
+PRD-0097,Industrial,487.45,"Super okazja! Produkt PRD-0097. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0097.jpg
+PRD-0098,Home & Kitchen,493.24,"Super okazja! Produkt PRD-0098. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0098.jpg
+PRD-0099,Home & Kitchen,352.1,"Super okazja! Produkt PRD-0099. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0099.jpg
+PRD-0100,Electronics,272.69,"Super okazja! Produkt PRD-0100. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0100.jpg
+PRD-0101,Fashion,161.67,"Super okazja! Produkt PRD-0101. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0101.jpg
+PRD-0102,Electronics,408.76,"Super okazja! Produkt PRD-0102. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0102.jpg
+PRD-0103,Fashion,345.52,"Super okazja! Produkt PRD-0103. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0103.jpg
+PRD-0104,Home & Kitchen,89.68,"Super okazja! Produkt PRD-0104. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0104.jpg
+PRD-0105,Electronics,456.35,"Super okazja! Produkt PRD-0105. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0105.jpg
+PRD-0106,Industrial,413.04,"Super okazja! Produkt PRD-0106. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0106.jpg
+PRD-0107,Automotive,475.4,"Super okazja! Produkt PRD-0107. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0107.jpg
+PRD-0108,Fashion,365.6,"Super okazja! Produkt PRD-0108. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0108.jpg
+PRD-0109,Automotive,310.57,"Super okazja! Produkt PRD-0109. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0109.jpg
+PRD-0110,Automotive,214.94,"Super okazja! Produkt PRD-0110. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0110.jpg
+PRD-0111,Electronics,467.04,"Super okazja! Produkt PRD-0111. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0111.jpg
+PRD-0112,Automotive,434.37,"Super okazja! Produkt PRD-0112. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0112.jpg
+PRD-0113,Industrial,32.16,"Super okazja! Produkt PRD-0113. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0113.jpg
+PRD-0114,Automotive,22.92,"Super okazja! Produkt PRD-0114. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0114.jpg
+PRD-0115,Electronics,194.47,"Super okazja! Produkt PRD-0115. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0115.jpg
+PRD-0116,Industrial,407.17,"Super okazja! Produkt PRD-0116. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0116.jpg
+PRD-0117,Home & Kitchen,493.77,"Super okazja! Produkt PRD-0117. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0117.jpg
+PRD-0118,Automotive,83.7,"Super okazja! Produkt PRD-0118. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0118.jpg
+PRD-0119,Electronics,301.12,"Super okazja! Produkt PRD-0119. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0119.jpg
+PRD-0120,Home & Kitchen,196.64,"Super okazja! Produkt PRD-0120. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0120.jpg
+PRD-0121,Home & Kitchen,485.26,"Super okazja! Produkt PRD-0121. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0121.jpg
+PRD-0122,Fashion,422.64,"Super okazja! Produkt PRD-0122. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0122.jpg
+PRD-0123,Industrial,420.78,"Super okazja! Produkt PRD-0123. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0123.jpg
+PRD-0124,Automotive,239.66,"Super okazja! Produkt PRD-0124. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0124.jpg
+PRD-0125,Electronics,213.26,"Super okazja! Produkt PRD-0125. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0125.jpg
+PRD-0126,Fashion,143.97,"Super okazja! Produkt PRD-0126. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0126.jpg
+PRD-0127,Industrial,37.62,"Super okazja! Produkt PRD-0127. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0127.jpg
+PRD-0128,Fashion,433.71,"Super okazja! Produkt PRD-0128. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0128.jpg
+PRD-0129,Industrial,408.32,"Super okazja! Produkt PRD-0129. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0129.jpg
+PRD-0130,Industrial,499.86,"Super okazja! Produkt PRD-0130. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0130.jpg
+PRD-0131,Automotive,498.35,"Super okazja! Produkt PRD-0131. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0131.jpg
+PRD-0132,Industrial,282.16,"Super okazja! Produkt PRD-0132. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0132.jpg
+PRD-0133,Fashion,386.8,"Super okazja! Produkt PRD-0133. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0133.jpg
+PRD-0134,Industrial,472.94,"Super okazja! Produkt PRD-0134. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0134.jpg
+PRD-0135,Automotive,426.33,"Super okazja! Produkt PRD-0135. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0135.jpg
+PRD-0136,Automotive,131.2,"Super okazja! Produkt PRD-0136. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0136.jpg
+PRD-0137,Fashion,230.77,"Super okazja! Produkt PRD-0137. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0137.jpg
+PRD-0138,Home & Kitchen,73.29,"Super okazja! Produkt PRD-0138. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0138.jpg
+PRD-0139,Home & Kitchen,477.49,"Super okazja! Produkt PRD-0139. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0139.jpg
+PRD-0140,Industrial,307.03,"Super okazja! Produkt PRD-0140. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0140.jpg
+PRD-0141,Electronics,122.03,"Super okazja! Produkt PRD-0141. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0141.jpg
+PRD-0142,Industrial,339.13,"Super okazja! Produkt PRD-0142. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0142.jpg
+PRD-0143,Fashion,312.88,"Super okazja! Produkt PRD-0143. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0143.jpg
+PRD-0144,Fashion,185.5,"Super okazja! Produkt PRD-0144. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0144.jpg
+PRD-0145,Fashion,65.64,"Super okazja! Produkt PRD-0145. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0145.jpg
+PRD-0146,Fashion,339.07,"Super okazja! Produkt PRD-0146. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0146.jpg
+PRD-0147,Fashion,264.95,"Super okazja! Produkt PRD-0147. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0147.jpg
+PRD-0148,Automotive,388.44,"Super okazja! Produkt PRD-0148. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0148.jpg
+PRD-0149,Home & Kitchen,264.88,"Super okazja! Produkt PRD-0149. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0149.jpg
+PRD-0150,Fashion,427.57,"Super okazja! Produkt PRD-0150. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0150.jpg
+PRD-0151,Electronics,280.43,"Super okazja! Produkt PRD-0151. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0151.jpg
+PRD-0152,Electronics,284.86,"Super okazja! Produkt PRD-0152. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0152.jpg
+PRD-0153,Electronics,439.56,"Super okazja! Produkt PRD-0153. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0153.jpg
+PRD-0154,Electronics,207.71,"Super okazja! Produkt PRD-0154. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0154.jpg
+PRD-0155,Automotive,75.67,"Super okazja! Produkt PRD-0155. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0155.jpg
+PRD-0156,Electronics,24.1,"Super okazja! Produkt PRD-0156. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0156.jpg
+PRD-0157,Fashion,380.02,"Super okazja! Produkt PRD-0157. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0157.jpg
+PRD-0158,Industrial,313.95,"Super okazja! Produkt PRD-0158. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0158.jpg
+PRD-0159,Electronics,355.0,"Super okazja! Produkt PRD-0159. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0159.jpg
+PRD-0160,Automotive,114.35,"Super okazja! Produkt PRD-0160. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0160.jpg
+PRD-0161,Automotive,76.82,"Super okazja! Produkt PRD-0161. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0161.jpg
+PRD-0162,Electronics,17.13,"Super okazja! Produkt PRD-0162. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0162.jpg
+PRD-0163,Industrial,181.79,"Super okazja! Produkt PRD-0163. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0163.jpg
+PRD-0164,Electronics,299.06,"Super okazja! Produkt PRD-0164. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0164.jpg
+PRD-0165,Automotive,202.2,"Super okazja! Produkt PRD-0165. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0165.jpg
+PRD-0166,Home & Kitchen,224.36,"Super okazja! Produkt PRD-0166. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0166.jpg
+PRD-0167,Fashion,453.04,"Super okazja! Produkt PRD-0167. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0167.jpg
+PRD-0168,Automotive,180.65,"Super okazja! Produkt PRD-0168. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0168.jpg
+PRD-0169,Electronics,261.85,"Super okazja! Produkt PRD-0169. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0169.jpg
+PRD-0170,Fashion,393.99,"Super okazja! Produkt PRD-0170. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0170.jpg
+PRD-0171,Electronics,204.31,"Super okazja! Produkt PRD-0171. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0171.jpg
+PRD-0172,Electronics,314.82,"Super okazja! Produkt PRD-0172. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0172.jpg
+PRD-0173,Home & Kitchen,432.56,"Super okazja! Produkt PRD-0173. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0173.jpg
+PRD-0174,Fashion,475.27,"Super okazja! Produkt PRD-0174. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0174.jpg
+PRD-0175,Fashion,82.07,"Super okazja! Produkt PRD-0175. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0175.jpg
+PRD-0176,Home & Kitchen,464.03,"Super okazja! Produkt PRD-0176. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0176.jpg
+PRD-0177,Automotive,251.14,"Super okazja! Produkt PRD-0177. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0177.jpg
+PRD-0178,Electronics,136.54,"Super okazja! Produkt PRD-0178. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0178.jpg
+PRD-0179,Industrial,234.98,"Super okazja! Produkt PRD-0179. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0179.jpg
+PRD-0180,Electronics,490.22,"Super okazja! Produkt PRD-0180. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0180.jpg
+PRD-0181,Electronics,251.38,"Super okazja! Produkt PRD-0181. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0181.jpg
+PRD-0182,Automotive,171.09,"Super okazja! Produkt PRD-0182. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0182.jpg
+PRD-0183,Electronics,320.37,"Super okazja! Produkt PRD-0183. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0183.jpg
+PRD-0184,Home & Kitchen,127.67,"Super okazja! Produkt PRD-0184. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0184.jpg
+PRD-0185,Home & Kitchen,47.17,"Super okazja! Produkt PRD-0185. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0185.jpg
+PRD-0186,Fashion,73.15,"Super okazja! Produkt PRD-0186. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0186.jpg
+PRD-0187,Industrial,72.74,"Super okazja! Produkt PRD-0187. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0187.jpg
+PRD-0188,Electronics,84.43,"Super okazja! Produkt PRD-0188. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0188.jpg
+PRD-0189,Electronics,78.03,"Super okazja! Produkt PRD-0189. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0189.jpg
+PRD-0190,Automotive,324.03,"Super okazja! Produkt PRD-0190. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0190.jpg
+PRD-0191,Home & Kitchen,99.12,"Super okazja! Produkt PRD-0191. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0191.jpg
+PRD-0192,Industrial,179.38,"Super okazja! Produkt PRD-0192. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0192.jpg
+PRD-0193,Fashion,449.43,"Super okazja! Produkt PRD-0193. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0193.jpg
+PRD-0194,Home & Kitchen,242.24,"Super okazja! Produkt PRD-0194. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0194.jpg
+PRD-0195,Fashion,337.1,"Super okazja! Produkt PRD-0195. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0195.jpg
+PRD-0196,Automotive,94.44,"Super okazja! Produkt PRD-0196. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0196.jpg
+PRD-0197,Automotive,104.22,"Super okazja! Produkt PRD-0197. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0197.jpg
+PRD-0198,Electronics,30.03,"Super okazja! Produkt PRD-0198. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0198.jpg
+PRD-0199,Industrial,92.78,"Super okazja! Produkt PRD-0199. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0199.jpg
+PRD-0200,Fashion,146.51,"Super okazja! Produkt PRD-0200. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0200.jpg
+PRD-0201,Home & Kitchen,96.74,"Super okazja! Produkt PRD-0201. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0201.jpg
+PRD-0202,Automotive,53.46,"Super okazja! Produkt PRD-0202. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0202.jpg
+PRD-0203,Electronics,69.11,"Super okazja! Produkt PRD-0203. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0203.jpg
+PRD-0204,Electronics,235.78,"Super okazja! Produkt PRD-0204. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0204.jpg
+PRD-0205,Fashion,111.1,"Super okazja! Produkt PRD-0205. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0205.jpg
+PRD-0206,Automotive,188.49,"Super okazja! Produkt PRD-0206. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0206.jpg
+PRD-0207,Industrial,256.67,"Super okazja! Produkt PRD-0207. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0207.jpg
+PRD-0208,Automotive,348.29,"Super okazja! Produkt PRD-0208. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0208.jpg
+PRD-0209,Fashion,29.26,"Super okazja! Produkt PRD-0209. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0209.jpg
+PRD-0210,Fashion,401.71,"Super okazja! Produkt PRD-0210. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0210.jpg
+PRD-0211,Automotive,317.67,"Super okazja! Produkt PRD-0211. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0211.jpg
+PRD-0212,Fashion,50.06,"Super okazja! Produkt PRD-0212. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0212.jpg
+PRD-0213,Automotive,438.05,"Super okazja! Produkt PRD-0213. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0213.jpg
+PRD-0214,Home & Kitchen,461.23,"Super okazja! Produkt PRD-0214. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0214.jpg
+PRD-0215,Automotive,39.93,"Super okazja! Produkt PRD-0215. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0215.jpg
+PRD-0216,Automotive,145.67,"Super okazja! Produkt PRD-0216. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0216.jpg
+PRD-0217,Fashion,405.04,"Super okazja! Produkt PRD-0217. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0217.jpg
+PRD-0218,Fashion,376.65,"Super okazja! Produkt PRD-0218. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0218.jpg
+PRD-0219,Electronics,100.42,"Super okazja! Produkt PRD-0219. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0219.jpg
+PRD-0220,Electronics,112.58,"Super okazja! Produkt PRD-0220. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0220.jpg
+PRD-0221,Home & Kitchen,191.53,"Super okazja! Produkt PRD-0221. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0221.jpg
+PRD-0222,Electronics,247.42,"Super okazja! Produkt PRD-0222. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0222.jpg
+PRD-0223,Automotive,312.94,"Super okazja! Produkt PRD-0223. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0223.jpg
+PRD-0224,Fashion,190.77,"Super okazja! Produkt PRD-0224. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0224.jpg
+PRD-0225,Electronics,236.64,"Super okazja! Produkt PRD-0225. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0225.jpg
+PRD-0226,Electronics,376.26,"Super okazja! Produkt PRD-0226. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0226.jpg
+PRD-0227,Home & Kitchen,27.97,"Super okazja! Produkt PRD-0227. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0227.jpg
+PRD-0228,Home & Kitchen,133.69,"Super okazja! Produkt PRD-0228. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0228.jpg
+PRD-0229,Automotive,359.54,"Super okazja! Produkt PRD-0229. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0229.jpg
+PRD-0230,Fashion,448.65,"Super okazja! Produkt PRD-0230. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0230.jpg
+PRD-0231,Home & Kitchen,260.72,"Super okazja! Produkt PRD-0231. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0231.jpg
+PRD-0232,Electronics,270.74,"Super okazja! Produkt PRD-0232. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0232.jpg
+PRD-0233,Fashion,62.51,"Super okazja! Produkt PRD-0233. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0233.jpg
+PRD-0234,Fashion,229.23,"Super okazja! Produkt PRD-0234. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0234.jpg
+PRD-0235,Electronics,270.98,"Super okazja! Produkt PRD-0235. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0235.jpg
+PRD-0236,Home & Kitchen,128.81,"Super okazja! Produkt PRD-0236. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0236.jpg
+PRD-0237,Electronics,141.93,"Super okazja! Produkt PRD-0237. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0237.jpg
+PRD-0238,Fashion,194.87,"Super okazja! Produkt PRD-0238. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0238.jpg
+PRD-0239,Industrial,19.83,"Super okazja! Produkt PRD-0239. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0239.jpg
+PRD-0240,Industrial,167.82,"Super okazja! Produkt PRD-0240. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0240.jpg
+PRD-0241,Automotive,113.61,"Super okazja! Produkt PRD-0241. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0241.jpg
+PRD-0242,Electronics,170.47,"Super okazja! Produkt PRD-0242. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0242.jpg
+PRD-0243,Electronics,68.68,"Super okazja! Produkt PRD-0243. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0243.jpg
+PRD-0244,Automotive,446.36,"Super okazja! Produkt PRD-0244. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0244.jpg
+PRD-0245,Automotive,300.86,"Super okazja! Produkt PRD-0245. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0245.jpg
+PRD-0246,Automotive,342.76,"Super okazja! Produkt PRD-0246. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0246.jpg
+PRD-0247,Fashion,396.69,"Super okazja! Produkt PRD-0247. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0247.jpg
+PRD-0248,Electronics,254.24,"Super okazja! Produkt PRD-0248. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0248.jpg
+PRD-0249,Fashion,52.59,"Super okazja! Produkt PRD-0249. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0249.jpg
+PRD-0250,Automotive,273.18,"Super okazja! Produkt PRD-0250. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0250.jpg
+PRD-0251,Electronics,297.55,"Super okazja! Produkt PRD-0251. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0251.jpg
+PRD-0252,Fashion,375.27,"Super okazja! Produkt PRD-0252. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0252.jpg
+PRD-0253,Fashion,221.51,"Super okazja! Produkt PRD-0253. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0253.jpg
+PRD-0254,Automotive,72.51,"Super okazja! Produkt PRD-0254. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0254.jpg
+PRD-0255,Electronics,149.05,"Super okazja! Produkt PRD-0255. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0255.jpg
+PRD-0256,Automotive,187.91,"Super okazja! Produkt PRD-0256. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0256.jpg
+PRD-0257,Electronics,326.5,"Super okazja! Produkt PRD-0257. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0257.jpg
+PRD-0258,Industrial,289.68,"Super okazja! Produkt PRD-0258. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0258.jpg
+PRD-0259,Home & Kitchen,184.49,"Super okazja! Produkt PRD-0259. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0259.jpg
+PRD-0260,Home & Kitchen,493.39,"Super okazja! Produkt PRD-0260. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0260.jpg
+PRD-0261,Home & Kitchen,306.83,"Super okazja! Produkt PRD-0261. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0261.jpg
+PRD-0262,Automotive,126.24,"Super okazja! Produkt PRD-0262. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0262.jpg
+PRD-0263,Industrial,59.87,"Super okazja! Produkt PRD-0263. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0263.jpg
+PRD-0264,Electronics,84.9,"Super okazja! Produkt PRD-0264. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0264.jpg
+PRD-0265,Fashion,130.52,"Super okazja! Produkt PRD-0265. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0265.jpg
+PRD-0266,Electronics,88.73,"Super okazja! Produkt PRD-0266. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0266.jpg
+PRD-0267,Fashion,101.42,"Super okazja! Produkt PRD-0267. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0267.jpg
+PRD-0268,Electronics,149.7,"Super okazja! Produkt PRD-0268. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0268.jpg
+PRD-0269,Industrial,94.95,"Super okazja! Produkt PRD-0269. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0269.jpg
+PRD-0270,Fashion,449.42,"Super okazja! Produkt PRD-0270. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0270.jpg
+PRD-0271,Automotive,49.31,"Super okazja! Produkt PRD-0271. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0271.jpg
+PRD-0272,Electronics,267.01,"Super okazja! Produkt PRD-0272. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0272.jpg
+PRD-0273,Electronics,211.09,"Super okazja! Produkt PRD-0273. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0273.jpg
+PRD-0274,Fashion,491.37,"Super okazja! Produkt PRD-0274. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0274.jpg
+PRD-0275,Automotive,64.9,"Super okazja! Produkt PRD-0275. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0275.jpg
+PRD-0276,Automotive,204.95,"Super okazja! Produkt PRD-0276. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0276.jpg
+PRD-0277,Industrial,485.04,"Super okazja! Produkt PRD-0277. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0277.jpg
+PRD-0278,Automotive,434.1,"Super okazja! Produkt PRD-0278. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0278.jpg
+PRD-0279,Automotive,410.37,"Super okazja! Produkt PRD-0279. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0279.jpg
+PRD-0280,Automotive,136.37,"Super okazja! Produkt PRD-0280. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0280.jpg
+PRD-0281,Home & Kitchen,93.73,"Super okazja! Produkt PRD-0281. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0281.jpg
+PRD-0282,Industrial,337.64,"Super okazja! Produkt PRD-0282. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0282.jpg
+PRD-0283,Electronics,465.39,"Super okazja! Produkt PRD-0283. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0283.jpg
+PRD-0284,Fashion,282.81,"Super okazja! Produkt PRD-0284. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0284.jpg
+PRD-0285,Electronics,290.09,"Super okazja! Produkt PRD-0285. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0285.jpg
+PRD-0286,Industrial,147.19,"Super okazja! Produkt PRD-0286. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0286.jpg
+PRD-0287,Fashion,387.05,"Super okazja! Produkt PRD-0287. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0287.jpg
+PRD-0288,Industrial,101.65,"Super okazja! Produkt PRD-0288. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0288.jpg
+PRD-0289,Automotive,168.6,"Super okazja! Produkt PRD-0289. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0289.jpg
+PRD-0290,Fashion,218.46,"Super okazja! Produkt PRD-0290. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0290.jpg
+PRD-0291,Automotive,258.73,"Super okazja! Produkt PRD-0291. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0291.jpg
+PRD-0292,Electronics,128.78,"Super okazja! Produkt PRD-0292. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0292.jpg
+PRD-0293,Electronics,66.27,"Super okazja! Produkt PRD-0293. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0293.jpg
+PRD-0294,Fashion,309.2,"Super okazja! Produkt PRD-0294. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0294.jpg
+PRD-0295,Fashion,151.43,"Super okazja! Produkt PRD-0295. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0295.jpg
+PRD-0296,Industrial,294.81,"Super okazja! Produkt PRD-0296. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0296.jpg
+PRD-0297,Industrial,85.64,"Super okazja! Produkt PRD-0297. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0297.jpg
+PRD-0298,Automotive,245.76,"Super okazja! Produkt PRD-0298. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0298.jpg
+PRD-0299,Fashion,270.97,"Super okazja! Produkt PRD-0299. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0299.jpg
+PRD-0300,Electronics,35.39,"Super okazja! Produkt PRD-0300. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0300.jpg
+PRD-0301,Industrial,174.94,"Super okazja! Produkt PRD-0301. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0301.jpg
+PRD-0302,Industrial,75.86,"Super okazja! Produkt PRD-0302. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0302.jpg
+PRD-0303,Electronics,41.05,"Super okazja! Produkt PRD-0303. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0303.jpg
+PRD-0304,Industrial,495.08,"Super okazja! Produkt PRD-0304. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0304.jpg
+PRD-0305,Automotive,167.95,"Super okazja! Produkt PRD-0305. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0305.jpg
+PRD-0306,Fashion,406.84,"Super okazja! Produkt PRD-0306. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0306.jpg
+PRD-0307,Electronics,134.77,"Super okazja! Produkt PRD-0307. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0307.jpg
+PRD-0308,Fashion,343.94,"Super okazja! Produkt PRD-0308. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0308.jpg
+PRD-0309,Industrial,382.51,"Super okazja! Produkt PRD-0309. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0309.jpg
+PRD-0310,Industrial,301.86,"Super okazja! Produkt PRD-0310. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0310.jpg
+PRD-0311,Electronics,241.07,"Super okazja! Produkt PRD-0311. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0311.jpg
+PRD-0312,Automotive,211.8,"Super okazja! Produkt PRD-0312. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0312.jpg
+PRD-0313,Home & Kitchen,180.95,"Super okazja! Produkt PRD-0313. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0313.jpg
+PRD-0314,Electronics,465.47,"Super okazja! Produkt PRD-0314. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0314.jpg
+PRD-0315,Home & Kitchen,417.0,"Super okazja! Produkt PRD-0315. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0315.jpg
+PRD-0316,Home & Kitchen,482.86,"Super okazja! Produkt PRD-0316. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0316.jpg
+PRD-0317,Automotive,70.91,"Super okazja! Produkt PRD-0317. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0317.jpg
+PRD-0318,Home & Kitchen,368.13,"Super okazja! Produkt PRD-0318. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0318.jpg
+PRD-0319,Home & Kitchen,469.79,"Super okazja! Produkt PRD-0319. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0319.jpg
+PRD-0320,Automotive,98.8,"Super okazja! Produkt PRD-0320. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0320.jpg
+PRD-0321,Home & Kitchen,42.58,"Super okazja! Produkt PRD-0321. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0321.jpg
+PRD-0322,Home & Kitchen,373.15,"Super okazja! Produkt PRD-0322. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0322.jpg
+PRD-0323,Home & Kitchen,291.49,"Super okazja! Produkt PRD-0323. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0323.jpg
+PRD-0324,Electronics,422.5,"Super okazja! Produkt PRD-0324. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0324.jpg
+PRD-0325,Electronics,78.49,"Super okazja! Produkt PRD-0325. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0325.jpg
+PRD-0326,Electronics,399.68,"Super okazja! Produkt PRD-0326. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0326.jpg
+PRD-0327,Automotive,108.8,"Super okazja! Produkt PRD-0327. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0327.jpg
+PRD-0328,Industrial,90.19,"Super okazja! Produkt PRD-0328. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0328.jpg
+PRD-0329,Home & Kitchen,90.49,"Super okazja! Produkt PRD-0329. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0329.jpg
+PRD-0330,Home & Kitchen,409.14,"Super okazja! Produkt PRD-0330. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0330.jpg
+PRD-0331,Automotive,335.95,"Super okazja! Produkt PRD-0331. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0331.jpg
+PRD-0332,Home & Kitchen,266.3,"Super okazja! Produkt PRD-0332. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0332.jpg
+PRD-0333,Electronics,185.83,"Super okazja! Produkt PRD-0333. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0333.jpg
+PRD-0334,Industrial,439.83,"Super okazja! Produkt PRD-0334. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0334.jpg
+PRD-0335,Fashion,202.3,"Super okazja! Produkt PRD-0335. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0335.jpg
+PRD-0336,Home & Kitchen,410.13,"Super okazja! Produkt PRD-0336. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0336.jpg
+PRD-0337,Electronics,225.18,"Super okazja! Produkt PRD-0337. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0337.jpg
+PRD-0338,Fashion,194.7,"Super okazja! Produkt PRD-0338. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0338.jpg
+PRD-0339,Industrial,236.71,"Super okazja! Produkt PRD-0339. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0339.jpg
+PRD-0340,Fashion,157.68,"Super okazja! Produkt PRD-0340. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0340.jpg
+PRD-0341,Electronics,376.33,"Super okazja! Produkt PRD-0341. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0341.jpg
+PRD-0342,Fashion,256.33,"Super okazja! Produkt PRD-0342. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0342.jpg
+PRD-0343,Automotive,123.78,"Super okazja! Produkt PRD-0343. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0343.jpg
+PRD-0344,Fashion,450.79,"Super okazja! Produkt PRD-0344. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0344.jpg
+PRD-0345,Home & Kitchen,198.11,"Super okazja! Produkt PRD-0345. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0345.jpg
+PRD-0346,Home & Kitchen,276.34,"Super okazja! Produkt PRD-0346. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0346.jpg
+PRD-0347,Automotive,454.17,"Super okazja! Produkt PRD-0347. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0347.jpg
+PRD-0348,Electronics,315.88,"Super okazja! Produkt PRD-0348. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0348.jpg
+PRD-0349,Home & Kitchen,67.28,"Super okazja! Produkt PRD-0349. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0349.jpg
+PRD-0350,Industrial,470.52,"Super okazja! Produkt PRD-0350. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0350.jpg
+PRD-0351,Home & Kitchen,317.58,"Super okazja! Produkt PRD-0351. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0351.jpg
+PRD-0352,Home & Kitchen,174.1,"Super okazja! Produkt PRD-0352. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0352.jpg
+PRD-0353,Electronics,78.24,"Super okazja! Produkt PRD-0353. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0353.jpg
+PRD-0354,Fashion,399.07,"Super okazja! Produkt PRD-0354. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0354.jpg
+PRD-0355,Home & Kitchen,313.84,"Super okazja! Produkt PRD-0355. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0355.jpg
+PRD-0356,Automotive,271.4,"Super okazja! Produkt PRD-0356. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0356.jpg
+PRD-0357,Fashion,448.01,"Super okazja! Produkt PRD-0357. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0357.jpg
+PRD-0358,Industrial,396.41,"Super okazja! Produkt PRD-0358. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0358.jpg
+PRD-0359,Electronics,84.32,"Super okazja! Produkt PRD-0359. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0359.jpg
+PRD-0360,Industrial,162.74,"Super okazja! Produkt PRD-0360. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0360.jpg
+PRD-0361,Fashion,131.76,"Super okazja! Produkt PRD-0361. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0361.jpg
+PRD-0362,Fashion,374.53,"Super okazja! Produkt PRD-0362. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0362.jpg
+PRD-0363,Fashion,26.43,"Super okazja! Produkt PRD-0363. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0363.jpg
+PRD-0364,Industrial,289.25,"Super okazja! Produkt PRD-0364. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0364.jpg
+PRD-0365,Fashion,383.6,"Super okazja! Produkt PRD-0365. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0365.jpg
+PRD-0366,Industrial,439.62,"Super okazja! Produkt PRD-0366. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0366.jpg
+PRD-0367,Fashion,177.62,"Super okazja! Produkt PRD-0367. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0367.jpg
+PRD-0368,Automotive,412.42,"Super okazja! Produkt PRD-0368. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0368.jpg
+PRD-0369,Fashion,64.21,"Super okazja! Produkt PRD-0369. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0369.jpg
+PRD-0370,Industrial,424.76,"Super okazja! Produkt PRD-0370. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0370.jpg
+PRD-0371,Home & Kitchen,72.47,"Super okazja! Produkt PRD-0371. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0371.jpg
+PRD-0372,Fashion,204.67,"Super okazja! Produkt PRD-0372. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0372.jpg
+PRD-0373,Home & Kitchen,400.67,"Super okazja! Produkt PRD-0373. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0373.jpg
+PRD-0374,Automotive,83.46,"Super okazja! Produkt PRD-0374. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0374.jpg
+PRD-0375,Electronics,122.33,"Super okazja! Produkt PRD-0375. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0375.jpg
+PRD-0376,Automotive,363.9,"Super okazja! Produkt PRD-0376. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0376.jpg
+PRD-0377,Fashion,362.82,"Super okazja! Produkt PRD-0377. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0377.jpg
+PRD-0378,Home & Kitchen,324.16,"Super okazja! Produkt PRD-0378. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0378.jpg
+PRD-0379,Home & Kitchen,350.03,"Super okazja! Produkt PRD-0379. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0379.jpg
+PRD-0380,Industrial,275.93,"Super okazja! Produkt PRD-0380. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0380.jpg
+PRD-0381,Home & Kitchen,133.38,"Super okazja! Produkt PRD-0381. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0381.jpg
+PRD-0382,Industrial,179.39,"Super okazja! Produkt PRD-0382. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0382.jpg
+PRD-0383,Electronics,98.98,"Super okazja! Produkt PRD-0383. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0383.jpg
+PRD-0384,Fashion,455.14,"Super okazja! Produkt PRD-0384. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0384.jpg
+PRD-0385,Industrial,295.86,"Super okazja! Produkt PRD-0385. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0385.jpg
+PRD-0386,Electronics,206.42,"Super okazja! Produkt PRD-0386. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0386.jpg
+PRD-0387,Home & Kitchen,236.38,"Super okazja! Produkt PRD-0387. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0387.jpg
+PRD-0388,Home & Kitchen,474.17,"Super okazja! Produkt PRD-0388. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0388.jpg
+PRD-0389,Electronics,85.14,"Super okazja! Produkt PRD-0389. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0389.jpg
+PRD-0390,Home & Kitchen,297.25,"Super okazja! Produkt PRD-0390. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0390.jpg
+PRD-0391,Electronics,257.89,"Super okazja! Produkt PRD-0391. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0391.jpg
+PRD-0392,Industrial,309.61,"Super okazja! Produkt PRD-0392. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0392.jpg
+PRD-0393,Industrial,18.87,"Super okazja! Produkt PRD-0393. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0393.jpg
+PRD-0394,Electronics,437.34,"Super okazja! Produkt PRD-0394. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0394.jpg
+PRD-0395,Industrial,466.74,"Super okazja! Produkt PRD-0395. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0395.jpg
+PRD-0396,Industrial,286.92,"Super okazja! Produkt PRD-0396. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0396.jpg
+PRD-0397,Industrial,351.36,"Super okazja! Produkt PRD-0397. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0397.jpg
+PRD-0398,Automotive,462.02,"Super okazja! Produkt PRD-0398. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0398.jpg
+PRD-0399,Fashion,356.55,"Super okazja! Produkt PRD-0399. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0399.jpg
+PRD-0400,Home & Kitchen,84.74,"Super okazja! Produkt PRD-0400. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0400.jpg
+PRD-0401,Automotive,292.38,"Super okazja! Produkt PRD-0401. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0401.jpg
+PRD-0402,Industrial,307.29,"Super okazja! Produkt PRD-0402. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0402.jpg
+PRD-0403,Electronics,217.82,"Super okazja! Produkt PRD-0403. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0403.jpg
+PRD-0404,Industrial,370.86,"Super okazja! Produkt PRD-0404. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0404.jpg
+PRD-0405,Fashion,467.84,"Super okazja! Produkt PRD-0405. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0405.jpg
+PRD-0406,Industrial,463.53,"Super okazja! Produkt PRD-0406. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0406.jpg
+PRD-0407,Electronics,230.91,"Super okazja! Produkt PRD-0407. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0407.jpg
+PRD-0408,Fashion,65.49,"Super okazja! Produkt PRD-0408. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0408.jpg
+PRD-0409,Industrial,492.57,"Super okazja! Produkt PRD-0409. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0409.jpg
+PRD-0410,Fashion,421.06,"Super okazja! Produkt PRD-0410. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0410.jpg
+PRD-0411,Home & Kitchen,71.08,"Super okazja! Produkt PRD-0411. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0411.jpg
+PRD-0412,Home & Kitchen,461.21,"Super okazja! Produkt PRD-0412. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0412.jpg
+PRD-0413,Industrial,436.25,"Super okazja! Produkt PRD-0413. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0413.jpg
+PRD-0414,Fashion,264.23,"Super okazja! Produkt PRD-0414. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0414.jpg
+PRD-0415,Electronics,299.72,"Super okazja! Produkt PRD-0415. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0415.jpg
+PRD-0416,Industrial,205.51,"Super okazja! Produkt PRD-0416. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0416.jpg
+PRD-0417,Home & Kitchen,36.83,"Super okazja! Produkt PRD-0417. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0417.jpg
+PRD-0418,Home & Kitchen,174.25,"Super okazja! Produkt PRD-0418. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0418.jpg
+PRD-0419,Industrial,403.4,"Super okazja! Produkt PRD-0419. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0419.jpg
+PRD-0420,Fashion,12.27,"Super okazja! Produkt PRD-0420. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0420.jpg
+PRD-0421,Home & Kitchen,173.41,"Super okazja! Produkt PRD-0421. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0421.jpg
+PRD-0422,Fashion,205.1,"Super okazja! Produkt PRD-0422. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0422.jpg
+PRD-0423,Home & Kitchen,273.32,"Super okazja! Produkt PRD-0423. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0423.jpg
+PRD-0424,Home & Kitchen,460.73,"Super okazja! Produkt PRD-0424. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0424.jpg
+PRD-0425,Automotive,179.71,"Super okazja! Produkt PRD-0425. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0425.jpg
+PRD-0426,Home & Kitchen,180.01,"Super okazja! Produkt PRD-0426. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0426.jpg
+PRD-0427,Electronics,371.38,"Super okazja! Produkt PRD-0427. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0427.jpg
+PRD-0428,Industrial,231.59,"Super okazja! Produkt PRD-0428. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0428.jpg
+PRD-0429,Industrial,120.06,"Super okazja! Produkt PRD-0429. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0429.jpg
+PRD-0430,Fashion,231.7,"Super okazja! Produkt PRD-0430. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0430.jpg
+PRD-0431,Home & Kitchen,79.02,"Super okazja! Produkt PRD-0431. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0431.jpg
+PRD-0432,Electronics,96.43,"Super okazja! Produkt PRD-0432. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0432.jpg
+PRD-0433,Fashion,254.2,"Super okazja! Produkt PRD-0433. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0433.jpg
+PRD-0434,Automotive,215.27,"Super okazja! Produkt PRD-0434. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0434.jpg
+PRD-0435,Fashion,458.27,"Super okazja! Produkt PRD-0435. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0435.jpg
+PRD-0436,Fashion,187.57,"Super okazja! Produkt PRD-0436. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0436.jpg
+PRD-0437,Home & Kitchen,294.49,"Super okazja! Produkt PRD-0437. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0437.jpg
+PRD-0438,Automotive,319.81,"Super okazja! Produkt PRD-0438. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0438.jpg
+PRD-0439,Fashion,16.42,"Super okazja! Produkt PRD-0439. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0439.jpg
+PRD-0440,Electronics,335.13,"Super okazja! Produkt PRD-0440. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0440.jpg
+PRD-0441,Electronics,97.24,"Super okazja! Produkt PRD-0441. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0441.jpg
+PRD-0442,Industrial,480.92,"Super okazja! Produkt PRD-0442. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0442.jpg
+PRD-0443,Automotive,82.84,"Super okazja! Produkt PRD-0443. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0443.jpg
+PRD-0444,Automotive,213.17,"Super okazja! Produkt PRD-0444. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0444.jpg
+PRD-0445,Industrial,51.82,"Super okazja! Produkt PRD-0445. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0445.jpg
+PRD-0446,Fashion,498.47,"Super okazja! Produkt PRD-0446. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0446.jpg
+PRD-0447,Automotive,256.08,"Super okazja! Produkt PRD-0447. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0447.jpg
+PRD-0448,Electronics,301.74,"Super okazja! Produkt PRD-0448. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0448.jpg
+PRD-0449,Electronics,42.87,"Super okazja! Produkt PRD-0449. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0449.jpg
+PRD-0450,Home & Kitchen,377.48,"Super okazja! Produkt PRD-0450. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0450.jpg
+PRD-0451,Automotive,112.85,"Super okazja! Produkt PRD-0451. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0451.jpg
+PRD-0452,Fashion,450.05,"Super okazja! Produkt PRD-0452. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0452.jpg
+PRD-0453,Industrial,110.52,"Super okazja! Produkt PRD-0453. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0453.jpg
+PRD-0454,Industrial,103.44,"Super okazja! Produkt PRD-0454. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0454.jpg
+PRD-0455,Fashion,27.91,"Super okazja! Produkt PRD-0455. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0455.jpg
+PRD-0456,Home & Kitchen,241.31,"Super okazja! Produkt PRD-0456. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0456.jpg
+PRD-0457,Industrial,286.77,"Super okazja! Produkt PRD-0457. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0457.jpg
+PRD-0458,Automotive,42.2,"Super okazja! Produkt PRD-0458. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0458.jpg
+PRD-0459,Home & Kitchen,390.01,"Super okazja! Produkt PRD-0459. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0459.jpg
+PRD-0460,Automotive,232.11,"Super okazja! Produkt PRD-0460. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0460.jpg
+PRD-0461,Electronics,266.95,"Super okazja! Produkt PRD-0461. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0461.jpg
+PRD-0462,Home & Kitchen,225.97,"Super okazja! Produkt PRD-0462. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0462.jpg
+PRD-0463,Industrial,206.37,"Super okazja! Produkt PRD-0463. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0463.jpg
+PRD-0464,Home & Kitchen,284.22,"Super okazja! Produkt PRD-0464. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0464.jpg
+PRD-0465,Home & Kitchen,86.07,"Super okazja! Produkt PRD-0465. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0465.jpg
+PRD-0466,Home & Kitchen,99.14,"Super okazja! Produkt PRD-0466. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0466.jpg
+PRD-0467,Home & Kitchen,432.27,"Super okazja! Produkt PRD-0467. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0467.jpg
+PRD-0468,Automotive,473.6,"Super okazja! Produkt PRD-0468. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0468.jpg
+PRD-0469,Electronics,192.92,"Super okazja! Produkt PRD-0469. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0469.jpg
+PRD-0470,Fashion,142.66,"Super okazja! Produkt PRD-0470. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0470.jpg
+PRD-0471,Home & Kitchen,325.56,"Super okazja! Produkt PRD-0471. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0471.jpg
+PRD-0472,Industrial,210.28,"Super okazja! Produkt PRD-0472. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0472.jpg
+PRD-0473,Home & Kitchen,22.44,"Super okazja! Produkt PRD-0473. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0473.jpg
+PRD-0474,Industrial,86.51,"Super okazja! Produkt PRD-0474. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0474.jpg
+PRD-0475,Automotive,360.83,"Super okazja! Produkt PRD-0475. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0475.jpg
+PRD-0476,Industrial,332.87,"Super okazja! Produkt PRD-0476. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0476.jpg
+PRD-0477,Fashion,23.28,"Super okazja! Produkt PRD-0477. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0477.jpg
+PRD-0478,Electronics,118.77,"Super okazja! Produkt PRD-0478. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0478.jpg
+PRD-0479,Industrial,123.23,"Super okazja! Produkt PRD-0479. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0479.jpg
+PRD-0480,Industrial,339.23,"Super okazja! Produkt PRD-0480. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0480.jpg
+PRD-0481,Electronics,19.66,"Super okazja! Produkt PRD-0481. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0481.jpg
+PRD-0482,Fashion,61.01,"Super okazja! Produkt PRD-0482. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0482.jpg
+PRD-0483,Home & Kitchen,401.96,"Super okazja! Produkt PRD-0483. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0483.jpg
+PRD-0484,Industrial,97.49,"Super okazja! Produkt PRD-0484. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0484.jpg
+PRD-0485,Electronics,329.85,"Super okazja! Produkt PRD-0485. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0485.jpg
+PRD-0486,Automotive,126.71,"Super okazja! Produkt PRD-0486. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0486.jpg
+PRD-0487,Electronics,58.73,"Super okazja! Produkt PRD-0487. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0487.jpg
+PRD-0488,Automotive,129.15,"Super okazja! Produkt PRD-0488. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0488.jpg
+PRD-0489,Fashion,363.91,"Super okazja! Produkt PRD-0489. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0489.jpg
+PRD-0490,Home & Kitchen,429.29,"Super okazja! Produkt PRD-0490. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0490.jpg
+PRD-0491,Electronics,416.81,"Super okazja! Produkt PRD-0491. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0491.jpg
+PRD-0492,Industrial,204.62,"Super okazja! Produkt PRD-0492. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0492.jpg
+PRD-0493,Fashion,337.36,"Super okazja! Produkt PRD-0493. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0493.jpg
+PRD-0494,Electronics,110.44,"Super okazja! Produkt PRD-0494. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0494.jpg
+PRD-0495,Industrial,153.64,"Super okazja! Produkt PRD-0495. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0495.jpg
+PRD-0496,Electronics,449.2,"Super okazja! Produkt PRD-0496. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0496.jpg
+PRD-0497,Automotive,16.37,"Super okazja! Produkt PRD-0497. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0497.jpg
+PRD-0498,Electronics,51.9,"Super okazja! Produkt PRD-0498. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0498.jpg
+PRD-0499,Electronics,111.86,"Super okazja! Produkt PRD-0499. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0499.jpg
+PRD-0500,Electronics,23.0,"Super okazja! Produkt PRD-0500. Stan idealny, szybka wysyłka. Idealne do domowego użytku.",data/raw/images/img_0500.jpg

@@ -8,7 +8,7 @@ st.set_page_config(
     layout="wide"
 )
 
-# Adres URL Twojego API wysłanego na Render
+# Adres URL Twojego API na Renderze
 API_BASE_URL = "https://multimodal-ecommerce-intelligence.onrender.com"
 
 st.title("🛍️ Multimodal E-Commerce Intelligence System")
@@ -39,7 +39,7 @@ with tab1:
                         "product_name": product_name,
                         "description": description
                     }
-                    response = requests.post(f"{API_BASE_URL}/analyze-product", json=payload)
+                    response = requests.post(f"{API_BASE_URL}/analyze-product", json=payload, timeout=60)
                     
                     if response.status_code == 200:
                         st.success("Analiza zakończona sukcesem!")
@@ -51,7 +51,7 @@ with tab1:
 
 # --- TAB 2: COMPUTER VISION ---
 with tab2:
-    st.header("Klasyfikacja zdjęć produktów (ResNet-18)")
+    st.header("Klasyfikacja zdjęć produktów (MobileNetV3)")
     uploaded_file = st.file_uploader("Wgraj zdjęcie produktu", type=["jpg", "jpeg", "png"])
     
     if uploaded_file is not None:
@@ -62,12 +62,11 @@ with tab2:
             
         with col_res:
             if st.button("Uruchom model detekcji", type="primary"):
-                with st.spinner("Model ResNet-18 przetwarza obraz..."):
+                with st.spinner("Model MobileNetV3 przetwarza obraz..."):
                     try:
-                        # Zamiast starych linii z dictem:
                         files = {"file": (uploaded_file.name, uploaded_file.getvalue(), uploaded_file.type)}
-                        response = requests.post(f"{API_BASE_URL}/analyze-image", files=files)
-                                                
+                        response = requests.post(f"{API_BASE_URL}/analyze-image", files=files, timeout=60)
+                        
                         if response.status_code == 200:
                             st.success("Detekcja zakończona!")
                             st.json(response.json())
@@ -95,15 +94,12 @@ with tab3:
                         "discount": float(discount),
                         "customer_rating": float(customer_rating)
                     }
-                    response = requests.post(f"{API_BASE_URL}/predict-causal-impact", json=payload)
+                    response = requests.post(f"{API_BASE_URL}/predict-causal-impact", json=payload, timeout=60)
                     
                     if response.status_code == 200:
-                        st.success("Sukces!")
+                        st.success("Obliczenia wykonane!")
                         st.json(response.json())
                     else:
                         st.error(f"Błąd API: status {response.status_code}")
-                        try:
-                            st.json(response.json())
-                        except Exception:
-                            st.write("Serwer zwrócił odpowiedź inną niż JSON (np. błąd 502/504 Render):")
-                            st.text(response.text)
+                except Exception as e:
+                    st.error(f"Nie udało się połączyć z API: {e}")

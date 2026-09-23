@@ -68,7 +68,7 @@ def run_spark_etl(input_dir="data/raw", output_dir="data/processed"):
     category_kpi.show()
 
     os.makedirs(output_dir, exist_ok=True)
-    enriched_df.write.mode("overwrite").parquet(os.path.join(output_dir, "enriched_orders.parquet"))
+    enriched_df.toPandas().to_parquet(os.path.join(output_dir, "enriched_orders.parquet"), index=False)
     
     print(f"Dane przetworzone i zapisane w formatach Parquet w folderze {output_dir}")
     spark.stop()
