@@ -2,6 +2,7 @@
 
 fastapi>=0.100.0        # framework do budowy nowoczesnych API w Pythonie, używany w projekcie do tworzenia interfejsów RESTful oraz obsługi żądań HTTP.
 uvicorn>=0.22.0         # serwer ASGI do uruchamiania aplikacji FastAPI, zapewniający wysoką wydajność i obsługę asynchronicznych żądań.
+streamlit>=1.25.0       # framework do tworzenia interaktywnych aplikacji webowych w Pythonie, używany w projekcie do wizualizacji danych oraz tworzenia interfejsów użytkownika.
 
 # Big Data & SQL
 pyspark>=3.5.0                  # framework do przetwarzania dużych zbiorów danych w rozproszonym środowisku, używany w projekcie do analizy danych i transformacji danych w formacie Parquet.
@@ -31,6 +32,4 @@ pyarrow>=12.0.0          # wymagany przez pandas oraz pyspark do wydajnego odczy
 pillow>=10.0.0           # wymagany przez opencv-python-headless do obsługi obrazów w formacie JPEG/PNG (używamy go w image_processing.py)
 requests>=2.31.0         # podstawowa biblioteka do wykonywania zapytań HTTP, używana w wielu miejscach w projekcie, np. do pobierania danych z API lub wysyłania wyników do zewnętrznych serwisów.
 python-multipart>=0.0.6  # biblioteka do obsługi przesyłania plików w formacie multipart/form-data, używana w projekcie do obsługi przesyłania plików w aplikacjach FastAPI.
-
-httpx # biblioteka do wykonywania asynchronicznych zapytań HTTP w Pythonie, używana w projekcie do integracji z zewnętrznymi API oraz obsługi żądań HTTP w aplikacjach FastAPI.
-streamlit # biblioteka do tworzenia interaktywnych aplikacji webowych w Pythonie, używana w projekcie do tworzenia interfejsów użytkownika oraz wizualizacji danych w czasie rzeczywistym.
+httpx>=0.30.0            # biblioteka do wykonywania asynchronicznych zapytań HTTP w Pythonie, używana w projekcie do integracji z zewnętrznymi API oraz obsługi żądań HTTP w aplikacjach FastAPI.

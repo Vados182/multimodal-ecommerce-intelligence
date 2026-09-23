@@ -14,14 +14,10 @@ from PIL import Image
 class ProductVisionDetector:
     """
     Ultra-lekka klasa do analizy obrazów oparta o MobileNetV3-Small.
-    Idealna do środowisk z ograniczeniem < 512MB RAM.
+    Zoptymalizowana pod środowiska z limitami pamięci RAM (< 512MB).
     """
     def __init__(self):
         self.device = torch.device("cpu")
-        self.model = None
-        self.weights = None
-        self.categories = None
-
         self.transform = transforms.Compose([
             transforms.Resize((224, 224)),
             transforms.ToTensor(),
@@ -30,30 +26,27 @@ class ProductVisionDetector:
                 std=[0.229, 0.224, 0.225]
             )
         ])
+        
+        # Wczytujemy model OD RAZU przy starcie serwera
+        self._load_model()
 
     def _load_model(self):
-        """Leniwe ładowanie ultra-lekkiego modelu."""
-        if self.model is None:
-            print(f"[VisionDetector] Inicjalizacja MobileNetV3 na: {self.device}")
-            with torch.no_grad():
-                self.weights = MobileNet_V3_Small_Weights.DEFAULT
-                self.model = mobilenet_v3_small(weights=self.weights)
-                self.model.to(self.device)
-                self.model.eval()
-                self.categories = self.weights.meta["categories"]
+        print(f"[VisionDetector] Inicjalizacja MobileNetV3-Small na: {self.device}")
+        with torch.no_grad():
+            self.weights = MobileNet_V3_Small_Weights.DEFAULT
+            self.model = mobilenet_v3_small(weights=self.weights)
+            self.model.to(self.device)
+            self.model.eval()
+            self.categories = self.weights.meta["categories"]
 
     def classify_image(self, image_path: str) -> dict:
         if not os.path.exists(image_path):
             return {
-                "status": "mock_result",
-                "message": f"Plik {image_path} nie istnieje.",
-                "top_prediction": "electronic_equipment",
-                "confidence": 0.92
+                "status": "error",
+                "message": f"Plik {image_path} nie istnieje."
             }
 
         try:
-            self._load_model()
-
             image = Image.open(image_path).convert('RGB')
             tensor_image = self.transform(image).unsqueeze(0).to(self.device)
 

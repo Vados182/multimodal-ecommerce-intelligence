@@ -79,24 +79,31 @@ with tab2:
 # --- TAB 3: CAUSAL INFERENCE ---
 with tab3:
     st.header("Predykcja wpływu zmian (Causal Impact)")
-    st.info("Moduł pozwalający oszacować wpływ obniżek cen lub kampanii promocyjnych na konwersję.")
+    st.info("Moduł pozwalający oszacować wpływ zniżki i oceny klientów na sprzedaż.")
     
     col_c1, col_c2 = st.columns(2)
     with col_c1:
-        price_change = st.slider("Zmiana ceny (%)", min_value=-50, max_value=50, value=-10)
-        ad_spend = st.number_input("Dodatkowy budżet reklamowy (PLN)", value=500)
+        discount = st.slider("Wysokość zniżki (%)", min_value=0.0, max_value=100.0, value=15.0, step=1.0)
+        customer_rating = st.slider("Ocena klienta (1.0 - 5.0)", min_value=1.0, max_value=5.0, value=4.5, step=0.1)
         causal_btn = st.button("Oblicz wpływ", type="primary")
         
     with col_c2:
         if causal_btn:
             with st.spinner("Obliczanie estymacji..."):
                 try:
-                    payload = {"price_change_pct": price_change, "ad_spend": ad_spend}
+                    payload = {
+                        "discount": float(discount),
+                        "customer_rating": float(customer_rating)
+                    }
                     response = requests.post(f"{API_BASE_URL}/predict-causal-impact", json=payload)
+                    
                     if response.status_code == 200:
-                        st.success("Obliczenia wykonane!")
+                        st.success("Sukces!")
                         st.json(response.json())
                     else:
                         st.error(f"Błąd API: status {response.status_code}")
-                except Exception as e:
-                    st.error(f"Nie udało się połączyć z API: {e}")
+                        try:
+                            st.json(response.json())
+                        except Exception:
+                            st.write("Serwer zwrócił odpowiedź inną niż JSON (np. błąd 502/504 Render):")
+                            st.text(response.text)
