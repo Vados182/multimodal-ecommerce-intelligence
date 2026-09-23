@@ -1,8 +1,39 @@
-.env
+# Byte-compiled / optimized / DLL files
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+
+# Caches & Environments
+.venv/
+venv/
+ENV/
+env/
 .pytest_cache/
-data/raw/*
-data/processed/*
-!data/raw/.gitkeep
-!data/processed/.gitkeep
+.coverage
+htmlcov/
+.mypy_cache/
+
+# Environment variables & Secrets (KLUCZE API!)
+.env
+.env.local
+*.pem
+
+# Streamlit local settings & history
+.streamlit/secrets.toml
+
+# Temporary upload files & images
+temp_*
+*.jpg
+*.jpeg
+*.png
+!assets/*.png
+
+# IDE / Editor configs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
