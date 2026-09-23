@@ -33,3 +33,4 @@ requests>=2.31.0         # podstawowa biblioteka do wykonywania zapytań HTTP, u
 python-multipart>=0.0.6  # biblioteka do obsługi przesyłania plików w formacie multipart/form-data, używana w projekcie do obsługi przesyłania plików w aplikacjach FastAPI.
 
 httpx # biblioteka do wykonywania asynchronicznych zapytań HTTP w Pythonie, używana w projekcie do integracji z zewnętrznymi API oraz obsługi żądań HTTP w aplikacjach FastAPI.
+streamlit # biblioteka do tworzenia interaktywnych aplikacji webowych w Pythonie, używana w projekcie do tworzenia interfejsów użytkownika oraz wizualizacji danych w czasie rzeczywistym.
