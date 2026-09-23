@@ -58,15 +58,16 @@ with tab2:
         col_img, col_res = st.columns(2)
         
         with col_img:
-            st.image(uploaded_file, caption="Wgranym obraz", use_column_width=True)
+            st.image(uploaded_file, caption="Wgrany obraz", use_container_width=True)
             
         with col_res:
             if st.button("Uruchom model detekcji", type="primary"):
                 with st.spinner("Model ResNet-18 przetwarza obraz..."):
                     try:
+                        # Zamiast starych linii z dictem:
                         files = {"file": (uploaded_file.name, uploaded_file.getvalue(), uploaded_file.type)}
                         response = requests.post(f"{API_BASE_URL}/analyze-image", files=files)
-                        
+                                                
                         if response.status_code == 200:
                             st.success("Detekcja zakończona!")
                             st.json(response.json())
