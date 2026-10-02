@@ -6,7 +6,6 @@ ENV PYTHONUNBUFFERED=1 \
     PYTHONDONTWRITEBYTECODE=1
 
 # 3. Instalacja pakietów systemowych OS (apt-get):
-# Zastąpiono libgl1-mesa-glx aktualnym pakietem libgl1
 RUN apt-get update && apt-get install -y --no-install-recommends \
     build-essential \
     libgl1 \
@@ -21,11 +20,11 @@ COPY requirements.txt .
 RUN pip install --no-cache-dir --upgrade pip && \
     pip install --no-cache-dir -r requirements.txt
 
-# 6. Kopiowanie reszty kodu aplikacji
-COPY . .
-
-# 7. Pre-download wag PyTorch na etapie budowania kontenera
+# 6. Pre-download wag PyTorch na etapie budowania kontenera (przed COPY . .)
 RUN python -c "import torchvision.models as models; models.resnet18(weights=models.ResNet18_Weights.DEFAULT)"
+
+# 7. Kopiowanie reszty kodu aplikacji (zmienia się najczęściej, więc jest na końcu)
+COPY . .
 
 # 8. Port informacyjny dla Dockera
 EXPOSE $PORT
