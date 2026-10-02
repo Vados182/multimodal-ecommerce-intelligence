@@ -21,7 +21,7 @@ RUN pip install --no-cache-dir --upgrade pip && \
     pip install --no-cache-dir -r requirements.txt
 
 # 6. Pre-download wag PyTorch na etapie budowania kontenera (przed COPY . .)
-RUN python -c "import torchvision.models as models; models.resnet18(weights=models.ResNet18_Weights.DEFAULT)"
+RUN python -c "import torchvision.models as models; models.mobilenet_v3_small(weights=models.MobileNet_V3_Small_Weights.DEFAULT)"
 
 # 7. Kopiowanie reszty kodu aplikacji (zmienia się najczęściej, więc jest na końcu)
 COPY . .
